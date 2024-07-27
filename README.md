@@ -52,7 +52,7 @@ To get started with the Math Fundamentals project, follow these steps:
 For any questions or inquiries, please feel free to contact me via LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
-
+📧 Email: [muqtasid5266@gmail.com](mailto:muqtasid5266@gmail.com)
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
